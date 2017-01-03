@@ -23,7 +23,7 @@
     "name" : "Smile Matrix Field",
     "version" : "0.9.dev",
     "author" : "Smile",
-    "website": 'https://github.com/Smile-SA/smile_openerp_matrix_widget',
+    "website": 'https://github.com/kdeldycke/smile_openerp_matrix_widget',
     "category" : "Custom",
     "description": "Smile Matrix Field",
     "depends" : ['base'],

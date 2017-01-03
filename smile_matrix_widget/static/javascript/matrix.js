@@ -421,7 +421,7 @@ jQuery(document).ready(function($){
         };
 
         // Insert our new row at the start of the sub-level: it enhance usability as it make the new row as close as the button we just clicked.
-        // Beware of Firefox strange behaviour. See: http://api.jquery.com/fadeIn/#comment-47240324
+        // Beware of Firefox strange behaviour. See: https://api.jquery.com/fadeIn/#comment-47240324
         if(level > 0){
             new_row.insertAfter(level_last_row);
         } else {
@@ -690,7 +690,7 @@ jQuery(document).ready(function($){
         window[custom_js_func]();
         //eval(custom_js_func + '();');
         // Fix IE9 cells misalignment
-        // See: http://social.msdn.microsoft.com/Forums/en-US/iewebdevelopment/thread/e6f49d52-ec3f-47c5-802e-b80d1a58ed39/
+        // See: https://social.msdn.microsoft.com/Forums/en-US/iewebdevelopment/thread/e6f49d52-ec3f-47c5-802e-b80d1a58ed39/
         matrix.find("table tr").contents().filter(function() {
             return this.nodeType == 3;
         }).remove();

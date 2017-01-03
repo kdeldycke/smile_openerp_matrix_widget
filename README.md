@@ -3,9 +3,9 @@ Smile Matrix Widget
 
 This is a prototype of a matrix widget for OpenERP 6.0.x web client.
 
-![Screenshot of the Smile matrix widget in action](http://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/ascii-art-matrix.png)
+![Screenshot of the Smile matrix widget in action](https://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/ascii-art-matrix.png)
 
-This project is sponsored by [Smile](http://www.smile.fr).
+This project is sponsored by [Smile](https://www.smile.fr).
 
 
 Features
@@ -37,33 +37,33 @@ Screenshots
 
 Here are some example use of the matrix:
 
-![](http://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/1-level-readonly-matrix.png)
+![](https://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/1-level-readonly-matrix.png)
 
-![](http://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/1-level-editable-increment-matrix.png)
+![](https://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/1-level-editable-increment-matrix.png)
 
-![](http://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/2-level-readonly-additional-lines-matrix.png)
+![](https://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/2-level-readonly-additional-lines-matrix.png)
 
-![](http://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/2-level-editable-additional-lines-matrix.png)
+![](https://github.com/Smile-SA/smile_openerp_matrix_widget/raw/master/screenshots/2-level-editable-additional-lines-matrix.png)
 
 
 FAQ
 ---
 
-**Why is this module not in [Smile's canonical repository for OpenERP contibutions](http://code.launchpad.net/smile-openerp) ?**
+**Why is this module not in [Smile's canonical repository for OpenERP contibutions](https://code.launchpad.net/smile-openerp) ?**
 
-This code started its life in Smile's internal Subversion repository and was [migrated to Git](http://kevin.deldycke.com/2011/08/how-open-source-an-internal-corporate-project-webping/) to not loose its commit history, which would have been the case if the project was to be pushed to Bazaar.
+This code started its life in Smile's internal Subversion repository and was [migrated to Git](https://kevin.deldycke.com/2011/08/how-open-source-an-internal-corporate-project-webping/) to not loose its commit history, which would have been the case if the project was to be pushed to Bazaar.
 
 
 Author
 ------
 
- * [Kevin Deldycke](http://kevin.deldycke.com) - `kevin@deldycke.com`
+ * [Kevin Deldycke](https://kevin.deldycke.com) - `kevin@deldycke.com`
 
 
 Contributors
 ------------
 
- * [Xavier Fernandez](http://twitter.com/#!/xavierfernandez)
+ * [Xavier Fernandez](https://twitter.com/#!/xavierfernandez)
  * Nicolas Petit
  * Corentin Pouhet-Brunerie
  * Sylvain Bannier
@@ -84,7 +84,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 
 Changelog

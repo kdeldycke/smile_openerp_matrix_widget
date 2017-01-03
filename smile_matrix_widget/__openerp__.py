@@ -15,7 +15,7 @@
 #    GNU General Public License for more details.
 #
 #    You should have received a copy of the GNU General Public License
-#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
 ##############################################################################
 
@@ -25,7 +25,7 @@
     "depends" : ["openerp"],
     "author" : "Smile.fr",
     "description": """Widget to display and edit a matrix of cell objects grouped by lines.""",
-    'website': 'http://github.com/Smile-SA/smile_openerp_matrix_widget',
+    'website': 'https://github.com/Smile-SA/smile_openerp_matrix_widget',
     'installable': True,
     # Force activation of this client addon. If you don't want it activated, don't symlink to it.
     'active': True,

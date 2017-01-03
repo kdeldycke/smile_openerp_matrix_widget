@@ -15,7 +15,7 @@
 #    GNU General Public License for more details.
 #
 #    You should have received a copy of the GNU General Public License
-#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #
 ##############################################################################
 
@@ -23,7 +23,7 @@
     "name" : "Smile Matrix Field",
     "version" : "0.9.dev",
     "author" : "Smile",
-    "website": 'http://github.com/Smile-SA/smile_openerp_matrix_widget',
+    "website": 'https://github.com/Smile-SA/smile_openerp_matrix_widget',
     "category" : "Custom",
     "description": "Smile Matrix Field",
     "depends" : ['base'],
